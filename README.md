@@ -57,5 +57,11 @@ _Не программа, а скрипт_. При помощи `Super God Mode`
 ### 17. [AV Block Remover](https://www.safezone.cc/resources/av-block-remover-avbr.224/)
 Для удаления вирусов, которые блокируют установку популярных антивирусов.
 
-## 18. [uBlock](https://github.com/gorhill/uBlock)
+### 18. [uBlock](https://github.com/gorhill/uBlock)
 Одно из лучших расширений для браузера, блокирующее рекламу.
+
+### 19. [VLC Media Player](https://www.videolan.org/)
+Простой и надежный Media Player.
+
+### 20. [YT-dlp](https://github.com/yt-dlp/yt-dlp)
+Позволяет очень быстро скачивать видео в любом формате с различных хостингов. Пример скачивания видео и его сохранения в формате mp4: `yt-dlp -o <Название файла> --merge-output-format mp4 <Ссылка>`
